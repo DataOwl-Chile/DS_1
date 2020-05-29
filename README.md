@@ -11,7 +11,7 @@ Data Science es el estudio de la extracción generalizable de conocimiento a par
   
 ## Requisitos para el curso
 
-Se espera que los participantes tengan conocimientos básicos de algoritmos, una experiencia deprogramación razonable, y cierta familiaridad con el álgebra lineal básica (p. Ej., Solución desistemas lineales y cálculo de valores y vectores propios) y una buena base en probabilidad yestadística. Si está interesado en tomar el curso, pero no está seguro de tener los conocimientosnecesarios, es posible que aún pueda sobrellevarlo si está dispuesto a hacer un esfuerzo adicionalpara llenar los vacíos.  &nbsp;
+Se espera que los participantes tengan conocimientos básicos de algoritmos, una experiencia de programación razonable, y cierta familiaridad con el álgebra lineal básica (p. Ej., Solución desistemas lineales y cálculo de valores y vectores propios) y una buena base en probabilidad y estadística. Si está interesado en tomar el curso, pero no está seguro de tener los conocimientosnecesarios, es posible que aún pueda sobrellevarlo si está dispuesto a hacer un esfuerzo adicional para llenar los vacíos.  &nbsp;
   
 ## Repositorios recomendados
 
