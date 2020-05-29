@@ -24,7 +24,7 @@ Se espera que los participantes tengan conocimientos básicos de algoritmos, una
 
  * **<a href="https://github.com/Shekhar-rv/Python-for-Data-Science-and-Machine-Learning-Bootcamp">Python for Data Science and Machine Learning Bootcamp</a>:** Repositorio del curso <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Python for Data Science and Machine Learning Bootcamp</a> de la plataforma Udemy. Tiene varios Notebooks para practicar Python orientado al Data Science.
  
- * **<a href="https://github.com/Shekhar-rv/Python">IBM Data Science Professional Certificate</a>:** Repositorio con los notebooks de la certificación <a href="https://www.coursera.org/professional-certificates/ibm-data-science">Data Science</a> impartida en Coursera por IBM. Tiene notebooks y arcivos .py mas enfocados a utilizar la librería <a href="https://plotly.com/dash/">Dash</a>.
+ * **<a href="https://github.com/Shekhar-rv/Python">IBM Data Science Professional Certificate</a>:** Repositorio con los notebooks de la certificación <a href="https://www.coursera.org/professional-certificates/ibm-data-science">Data Science</a> impartida en Coursera por IBM. Tiene notebooks y archivos variados de todos los cursos que pertenecen a esta certificación.
  
  * **<a href="https://github.com/SudalaiRajkumar/DataScienceR">Data Science with R</a>:** Repositorio que contiene una gran cantidad de archivos .R para realizar el recorrido de la Ciencia de Datos en R. Además en el readme de este repositorio esta lleno de links interesantes para el lenguaje.
  
