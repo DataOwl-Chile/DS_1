@@ -33,4 +33,8 @@ Se espera que los participantes tengan conocimientos básicos de algoritmos, una
   1. **<a href="https://www.the-modeling-agency.com/crisp-dm.pdf">CRISP-DM 1.0<a>**: Este documento describe el modelo de proceso CRISP-DM y contiene información sobre la metodología CRISP-DM, el modelo de referencia CRISP-DM, la guía del usuario CRISP-DM y los informes CRISP-DM, así como un apéndice con información adicional relacionada.
   2. **<a href="http://www.bdbanalytics.ir/media/1123/storytelling-with-data-cole-nussbaumer-knaflic.pdf">Storytelling with Data<a/>**: En su obra, Nussbaumer Knaflic logra destacar los fundamentos con los que se puede comunicar de manera efectiva los insights que se descubren del análisis de la Data.
   
-  
+## Sitios de interés
+
+  1. **<a href="https://es.stackoverflow.com/">StackOverflow<a>**: Dudas de programación.
+  2. **<a href="https://sci-hub.tw/">Sci-Hub<a>**: Desbloquear papers y artículos.
+  3. **<a href="https://libgen.is/">Libgen<a>**: Buscar libros.
